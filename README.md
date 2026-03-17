@@ -4,7 +4,7 @@
 
 <img  align="right" src="https://github.com/rudrabarad/Gifs" alt="Coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pronobpaul&label=Profile%20views&color=0e75b6&style=flat" alt="pronobpaul" /> </p>
+<p align="left"> <img src="https://share.google/oDZ4MbHzY0aukiETY" alt="pronobpaul" /> </p>
 
 - 🔭 I’m currently working on [Mobile App Development (Flutter)](On Going)
 
