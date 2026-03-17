@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pronob Paul</h1>
 <h3 align="center">A passionate Computer Science student at Daffodil International University. I am interested in Software Quality Assurance (SQA), Mobile App Development (Flutter), and Machine Learning. I enjoy learning new technologies and building practical projects to improve my skills.</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
-
-<p align="left"> <img src="https://share.google/oDZ4MbHzY0aukiETY" alt="pronobpaul" /> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on [Mobile App Development (Flutter)](On Going)<br><br>🌱 I’m currently learning Software Quality Assurance (SQA)<br><br>👯 I’m looking to collaborate on My Team<br><br>🤝 I’m looking for help with My team<br><br>👨‍💻 All of my projects are available at https://pronobpaul.github.io/MY_PORTFOLIO/#<br><br>💬 Ask me about Mobile App Development (Flutter),Database,Machine Learning,Manual & Automated Testing<br><br>📫 How to reach me paul22205101914@diu.edu.bd<br><br>⚡ Fun fact I try to find something new to learn in every situation
 
