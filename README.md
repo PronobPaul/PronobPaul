@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Pronob Paul</h1>
-<h3 align="center">A passionate Computer Science student at Daffodil International University. I am interested in Software Quality Assurance (SQA), Mobile App Development (Flutter), and Machine Learning. I enjoy learning new technologies and building practical projects to improve my skills.</h3>
+<h3 align="center">A passionate Computer Science and Engineering graduate from Daffodil International University, currently working as a Junior Software Engineer. I am interested in software development, particularly .NET technologies, web application development, and database management. I enjoy learning new technologies, solving technical problems, and building practical applications to enhance my skills and contribute to real-world projects.</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 # 💫 About Me:
-🔭 I’m currently working on [Mobile App Development (Flutter)](On Going)<br><br>🌱 I’m currently learning Software Quality Assurance (SQA)<br><br>👯 I’m looking to collaborate on My Team<br><br>🤝 I’m looking for help with My team<br><br>👨‍💻 All of my projects are available at https://pronobpaul.github.io/MY_PORTFOLIO/#<br><br>💬 Ask me about Mobile App Development (Flutter),Database,Machine Learning,Manual & Automated Testing<br><br>📫 How to reach me:   paul22205101914@diu.edu.bd<br><br>⚡ Fun fact I try to find something new to learn in every situation
+🔭 I’m currently working on [.NET Software Development](On Going)<br><br>🌱 I’m currently learning ASP.NET Core Web API, Blazor, and Software Development Best Practices<br><br>👯 I’m looking to collaborate on .NET and Web Development Projects<br><br>🤝 I’m looking for help with Improving my problem-solving skills and learning new technologies<br><br>👨‍💻 All of my projects are available at https://pronobpaul.github.io/MY_PORTFOLIO/#<br><br>💬 Ask me about C#, .NET, ASP.NET Core, Blazor, SQL Server, and REST APIs,Database,Machine Learning.<br><br>📫 How to reach me:   pronobpaul1914@gmail.com<br><br>⚡ Fun fact I try to find something new to learn in every situation
 
 
 ## 🌐 Socials:
